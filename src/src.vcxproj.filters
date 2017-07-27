@@ -18,30 +18,27 @@
     <ClCompile Include="MainTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ArraySequences.cpp">
+    <ClCompile Include="SLL012Sort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countGreaterNumbers.cpp">
+    <ClCompile Include="numberToLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="findSingleOccurenceNumber.cpp">
+    <ClCompile Include="removeEveryKthNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeSortedArrays.cpp">
+    <ClCompile Include="sortLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PHeights.cpp">
+    <ClCompile Include="twodigitLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sortedArraysCommonElements.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NWar.cpp">
+    <ClCompile Include="IsDivSLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FunctionHeadersArrays2.h">
+    <ClInclude Include="FunctionHeadersLinkedLists1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

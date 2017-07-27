@@ -1,32 +1,42 @@
 /*
-Well Done for completing the first part of the C Course ,If you didnt finish
-Do complete them and come here again .
-
-Use MainArrays2 File for testing any other function in other Cpp files of the Strings Project.
-
+Use MainLinkedLists1 File for testing any other function in other Cpp files of the Strings Project.
 DO NOT write main function in any other File or else your Build Fails.s
-
-Objectives of C-Arrays-2 Lesson:
-
-->Handling Arrays of Structures
-->Sorting Arrays
-->Learning Complexities of your Algorithm
-
+Do not write same add,display function in every CppFile .VS throws an error if two files
+have some functions with same signature.
+You can either change the signature in each file by using add1,display2 like that or
+keep a common header file which has functions for handling common tasks for debugging
+like displaying and include that header file in each Problem file .
+Only jump into this lesson after you did all specified functions in Tutorial Lesson.
+Objectives of C-LinkedLists-1 Lesson:
+->Add/Delete/Display nodes in SLL
+->Manipulate Links in SLL
+->Handling SLL which have nodes of more than one data field
 */
+
+
+//Do not edit below Header Files
 #include <stdio.h>
-#include "FunctionHeadersArrays2.h"
+#include <stdlib.h>
+#include "FunctionHeadersLinkedLists1.h"
+
+struct node {
+	int data;
+	struct node *next;
+};
+
+//Write  helper functions below with which you can create a sll on your own.
 
 int main(){
 
-	//Test countGreaterNumbers
+	//Test 012SortSll
+	//Test numberToLinkedList
 
-	//Test findSingleOccurenceNumber
+	//Test removeEveryKthNode
 
-	//Test mergeSortedArray
+	//Test sortLinkedList
 
-	//Test sortedArraysCommonElements
+	//Test twodigitLinkedList
 
-	//Test others
-
+	//Test isDivSLL
 	return 0;
 }

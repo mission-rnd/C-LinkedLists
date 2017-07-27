@@ -21,25 +21,22 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ArraySequencesSpec.cpp">
+    <ClCompile Include="SLL012SortSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countGreaterNumbersSpec.cpp">
+    <ClCompile Include="numberToLinkedListSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="findSingleOccurenceNumberSpec.cpp">
+    <ClCompile Include="removeEveryKthNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mergeSortedArraysSpec.cpp">
+    <ClCompile Include="sortLinkedListSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PHeightsSpec.cpp">
+    <ClCompile Include="twodigitLinkedListSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NWarSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="sortedArraysCommonElementsSpec.cpp">
+    <ClCompile Include="IsDivSLLSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

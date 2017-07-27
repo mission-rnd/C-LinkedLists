@@ -82,14 +82,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArraySequencesSpec.cpp" />
+    <ClCompile Include="SLL012SortSpec.cpp" />
     <ClCompile Include="AssemblyInfo.cpp" />
-    <ClCompile Include="countGreaterNumbersSpec.cpp" />
-    <ClCompile Include="findSingleOccurenceNumberSpec.cpp" />
-    <ClCompile Include="mergeSortedArraysSpec.cpp" />
-    <ClCompile Include="NWarSpec.cpp" />
-    <ClCompile Include="PHeightsSpec.cpp" />
-    <ClCompile Include="sortedArraysCommonElementsSpec.cpp" />
+    <ClCompile Include="numberToLinkedListSpec.cpp" />
+    <ClCompile Include="removeEveryKthNode.cpp" />
+    <ClCompile Include="sortLinkedListSpec.cpp" />
+    <ClCompile Include="twodigitLinkedListSpec.cpp" />
+    <ClCompile Include="IsDivSLLSpec.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>

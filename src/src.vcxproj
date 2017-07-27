@@ -78,17 +78,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ArraySequences.cpp" />
-    <ClCompile Include="countGreaterNumbers.cpp" />
-    <ClCompile Include="findSingleOccurenceNumber.cpp" />
+    <ClCompile Include="SLL012Sort.cpp" />
+    <ClCompile Include="numberToLinkedList.cpp" />
+    <ClCompile Include="removeEveryKthNode.cpp" />
     <ClCompile Include="MainTest.cpp" />
-    <ClCompile Include="mergeSortedArrays.cpp" />
-    <ClCompile Include="PHeights.cpp" />
-    <ClCompile Include="NWar.cpp" />
-    <ClCompile Include="sortedArraysCommonElements.cpp" />
+    <ClCompile Include="sortLinkedList.cpp" />
+    <ClCompile Include="IsDivSLL.cpp" />
+    <ClCompile Include="twodigitLinkedList.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FunctionHeadersArrays2.h" />
+    <ClInclude Include="FunctionHeadersLinkedLists1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
